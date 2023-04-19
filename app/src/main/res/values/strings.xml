@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Top Sercret</string>
+    <string name="button_translate_text">convert</string>
+    <string name="translation_placeholder">insert the data</string>
+    <string name="input_hint">insert the key</string>
+    <string name="result_placeholder">the output</string>
+    <string-array name="encryption_algorithms">
+        <item>AES</item>
+        <item>DES</item>
+        <item>3DES</item>
+        <item>Playfair</item>
+        <item>Vigenere</item>
+        <item>Caeser</item>
+    </string-array>
+</resources>
